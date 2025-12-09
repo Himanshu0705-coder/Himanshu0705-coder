@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Panchal</h1>
 <h3 align="center">A passionate Data Scientist / Data Analyst </h3>
 # 💫 About Me:
- 🔭 I’m currently working on Python , Machine Learning <br> 🌱 I’m currently learning Deep Learning<br> 📫 How to reach me: https://www.linkedin.com/in/himanshu-panchal-07hp/<br> 😄 Pronouns: Him/His<br> 
+ <br>🔭 I’m currently working on Python , Machine Learning <br> 🌱 I’m currently learning Deep Learning<br> 📫 How to reach me: https://www.linkedin.com/in/himanshu-panchal-07hp/<br> 😄 Pronouns: Him/His<br> 
 
 <!-- Snake Game Repo View -->
 
